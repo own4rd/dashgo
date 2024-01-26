@@ -3,7 +3,7 @@
   Ignite - Trilha ReactJS
 </h2>
 <p align="center">
-  Projeto 02: dashgo
+  Projeto 02: dashgoo
 </p>
 <img alt="dashgo" src="https://i.imgur.com/yAyKn5v.png">
 
