@@ -1,6 +1,6 @@
 <img alt="Ignite" src="https://i.imgur.com/eCVyxxy.png">
 <h2 align="center">
-  Ignite - Trilha ReactJS
+  Ignite - Trilha ReactJSs
 </h2>
 <p align="center">
   Projeto 02: dashgoo
